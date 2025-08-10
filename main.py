@@ -41,6 +41,7 @@ def main():
                 print ("Game over!")
                 sys.exit()
 
+
         for sprite in drawable:
             sprite.draw(screen)
 
